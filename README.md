@@ -2,7 +2,7 @@
 
 ## 🔖 Overview
 
-Reverie is a visually captivating and eye-soothing VS Code theme designed to provide a delightful coding experience. With a harmonious blend of navy blue, golden, green, and purplish-velvet colors, Reverie creates an atmosphere that sparks creativity and enhances focus during long coding sessions.
+Reverie is an eye-soothing Visual Studio Code color theme with blends of navy blue, golden, green, and velvet colors.
 
 ## 🎞️ Screenshots
 
