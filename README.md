@@ -42,4 +42,8 @@ Feedback and contributions are welcome! If you encounter any issues or have sugg
 
 ---
 
+<<<<<<< HEAD
 **Enjoy coding with Reverie! 😊** 
+=======
+**Enjoy coding with Reverie! 😊** 
+>>>>>>> 611c4d7fe7b070f41b74696542f613207d8a98a7
