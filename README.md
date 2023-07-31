@@ -42,4 +42,4 @@ Feedback and contributions are welcome! If you encounter any issues or have sugg
 
 ---
 
-**Enjoy coding with Reverie!** Happy coding! 😊
+**Enjoy coding with Reverie! 😊** 
