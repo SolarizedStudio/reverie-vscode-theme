@@ -27,14 +27,6 @@ Reverie is a visually captivating and eye-soothing VS Code theme designed to pro
 
 Feedback and contributions are welcome! If you encounter any issues or have suggestions for improvements, please create an issue or submit a pull request on our [GitHub repository](https://github.com/yourusername/reverie-vscode-theme).
 
-## Credits
-
-This theme is inspired by the work of many talented theme designers and open-source contributors. Special thanks to the VS Code team and the open-source community for their continuous efforts to enhance the development experience.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
-**Enjoy coding with Reverie!** If you find this theme helpful, don't forget to star the repository and share it with your friends and colleagues. Happy coding! 😊
+**Enjoy coding with Reverie!** Happy coding! 😊
