@@ -4,13 +4,6 @@
 
 Reverie is a visually captivating and eye-soothing VS Code theme designed to provide a delightful coding experience. With a harmonious blend of navy blue, golden, green, and purplish-velvet colors, Reverie creates an atmosphere that sparks creativity and enhances focus during long coding sessions.
 
-## ⚙️ Installation
-
-1. Launch Visual Studio Code.
-2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
-3. Search for "Reverie" and click Install to apply the theme.
-4. Press `Ctrl/Cmd + K, Ctrl/Cmd + T` to open the theme selection menu, and select "Reverie" from the list.
-
 ## 🎞️ Screenshots
 
 ![Reverie - Screenshot 1](https://github.com/odaguzman/reverie-vscode-theme/raw/master/assets/Screenshot1.png)
@@ -23,6 +16,12 @@ Reverie is a visually captivating and eye-soothing VS Code theme designed to pro
 ### Screenshot 3
 ![Reverie - Screenshot 3](https://github.com/odaguzman/reverie-vscode-theme/raw/master/assets/Screenshot3.png)
 
+## ⚙️ Installation
+
+1. Launch Visual Studio Code.
+2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
+3. Search for "Reverie" and click Install to apply the theme.
+4. Press `Ctrl/Cmd + K, Ctrl/Cmd + T` to open the theme selection menu, and select "Reverie" from the list.
 
 ## ✨ Features
 
