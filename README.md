@@ -1,4 +1,4 @@
-# LunarInk README
+# Reverie README
 
 ## Working with Markdown
 
