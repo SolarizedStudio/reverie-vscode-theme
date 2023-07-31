@@ -1,0 +1,89 @@
+{
+	"name": "LunarInk Eclipse",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#0f1b37",
+		"editor.foreground": "#4489f7",
+		"editor.selectionBackground": "#7ea0d6",
+		"editor.lineHighlightBackground": "#4e5a6d",
+		"editorCursor.foreground": "#ffffffa6",
+		"editorWhitespace.foreground": "#1a4b9a",
+		"scrollbarSlider.background": "#264f78",
+		"scrollbarSlider.hoverBackground": "#16223c",
+		"scrollbarSlider.activeBackground": "#011848",
+		"sideBar.background": "#15213a",
+		"activityBar.background": "#15213a",
+		"activityBar.border": "#c19506",
+		"statusBar.background": "#15213a",
+		"statusBar.border": "#c19506",
+		"titleBar.activeBackground": "#15213a",
+		"titleBar.inactiveBackground": "#15213a",
+		"titleBar.border": "#c19506",
+		"commandPalette.background": "#15213a",
+		"terminal.background": "#15213a",
+		"panel.background": "#15213a",
+		"tab.activeBackground": "#15213a",
+		"tab.inactiveBackground": "#15213a",
+		"tab.hoverBorder": "#c19506",
+		"editorGroupHeader.tabsBackground": "#15213a"
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#cacaca92",
+				"fontStyle": "italic" /* Make comments italic */
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#69c741"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"foreground": "#f3bd50"
+			}
+		},
+		{
+			"name": "Function",
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#9f31e9"
+			}
+		},
+		{
+			"name": "Punctuation",
+			"scope": "punctuation",
+			"settings": {
+				"foreground": "#b60e65e4"
+			}
+		},
+		{
+			"name": "Variable",
+			"scope": "variable",
+			"settings": {
+				"foreground": "#eaeaea"
+			}
+		},
+		{
+			"name": "Constant",
+			"scope": "constant",
+			"settings": {
+				"foreground": "#ffae57"
+			}
+		},
+		{
+			"name": "Type",
+			"scope": "entity.name.type",
+			"settings": {
+				"foreground": "#ffcc66"
+			}
+		}
+	]
+}
