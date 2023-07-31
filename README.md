@@ -13,14 +13,11 @@ Reverie is a visually captivating and eye-soothing VS Code theme designed to pro
 
 ## 🎞️ Screenshots
 
-[![Reverie - Screenshot 1](https://github.com/odaguzman/reverie-vscode-theme/raw/master/assets/screenshot1.png)](https://github.com/odaguzman/reverie-vscode-theme/raw/main/assets/Screenshot1.png
-)
+![Reverie - Screenshot 1](https://github.com/odaguzman/reverie-vscode-theme/raw/main/assets/Screenshot1.png)
 
-[![Reverie - Screenshot 2](https://github.com/odaguzman/reverie-vscode-theme/raw/master/assets/screenshot1.png)](https://github.com/odaguzman/reverie-vscode-theme/raw/main/assets/Screenshot2.png
-)
+![Reverie - Screenshot 2](https://github.com/odaguzman/reverie-vscode-theme/raw/main/assets/Screenshot2.png)
 
-[![Reverie - Screenshot 3](https://github.com/odaguzman/reverie-vscode-theme/raw/master/assets/screenshot1.png)](https://github.com/odaguzman/reverie-vscode-theme/raw/main/assets/Screenshot3.png
-)
+![Reverie - Screenshot 3](https://github.com/odaguzman/reverie-vscode-theme/raw/main/assets/Screenshot3.png)
 
 ## ✨ Features
 
