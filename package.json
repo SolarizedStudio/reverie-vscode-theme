@@ -1,8 +1,21 @@
 {
-  "name": "LunarInk",
-  "displayName": "Lunar Ink",
+  "name": "Reverie",
+  "displayName": "Reverie",
   "description": "Darkness to make your code glow.",
   "version": "0.0.1",
+  "publisher": "OdaGuzman",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OdaGuzman/reverie-vscode-theme"
+  },
+  "keywords": [
+    "theme",
+    "reverie",
+    "dark theme",
+    "blue theme",
+    "purple theme",
+    "Oda Guzman"
+  ],
   "engines": {
     "vscode": "^1.80.0"
   },
