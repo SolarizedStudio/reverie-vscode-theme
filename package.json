@@ -2,9 +2,9 @@
   "name": "Reverie",
   "displayName": "Reverie",
   "description": "A dark blue theme for VS Code with shades of dark red, yellow, and green.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "OdaGuzman",
-    "icon": "assets/Reverie.png",
+  "icon": "assets/Reverie.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/OdaGuzman/reverie-vscode-theme"
