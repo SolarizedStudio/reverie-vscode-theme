@@ -25,9 +25,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Lunar Ink",
+        "label": "Reverie",
         "uiTheme": "vs-dark",
-        "path": "./themes/Lunar Ink-color-theme.json"
+        "path": "./themes/Reverie-color-theme.json"
       }
     ]
   }
